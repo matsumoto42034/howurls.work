@@ -1,6 +1,6 @@
 {
   "name": "howurls.work",
-  "version": "0.1.40",
+  "version": "0.1.41",
   "description": "Learn how URLs work by visually inspecting their structure.",
   "main": "src/index.js",
   "scripts": {
